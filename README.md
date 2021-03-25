@@ -10,3 +10,4 @@ Something so good that I think I will want to read it again
 ## Since it's AI Hype
 - [推荐系统领域有啥巧妙的idea？ - 石塔西的回答 - 知乎](https://www.zhihu.com/question/362190044/answer/1670206355)
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
