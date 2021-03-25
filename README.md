@@ -9,4 +9,4 @@ Something so good that I think I will want to read it again
 
 ## Since it's AI Hype
 - [推荐系统领域有啥巧妙的idea？ - 石塔西的回答 - 知乎](https://www.zhihu.com/question/362190044/answer/1670206355)
-- - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
