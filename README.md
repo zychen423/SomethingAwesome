@@ -18,6 +18,9 @@ Something so good that I think I will want to read it again
 #### [怎麼成為一個超級PM？ - LivingOS](https://www.livingos.org/blog/super-pm/)
 #### [Preparation materials - Google Careers](https://careers.google.com/stories/apm-preparation-materials/)
 
+## Something called Growth Hacking
+#### [The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/)
+
 ## Since it's AI Hype
 #### [Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
 #### [推荐系统领域有啥巧妙的idea？ - 石塔西的回答 - 知乎](https://www.zhihu.com/question/362190044/answer/1670206355)
