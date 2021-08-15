@@ -27,3 +27,6 @@ Something so good that I think I will want to read it again
 #### [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 #### [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
   - Do not rewrite code 
+
+## I Don't Know What It Is
+#### [日本《周刊文春》曝光东京奥运会 1199 页内部文件，东京奥运会开幕式本应是怎样的？](https://www.zhihu.com/question/475755259/answer/2026751215)
