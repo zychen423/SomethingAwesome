@@ -23,6 +23,8 @@ Something so good that I think I will want to read it again
 
 ## Since it's AI Hype
 #### [Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
+  - start simple
+  - make sure the pipeline is correct, then start developing learning model
 #### [推荐系统领域有啥巧妙的idea？ - 石塔西的回答 - 知乎](https://www.zhihu.com/question/362190044/answer/1670206355)
 #### [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 #### [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
@@ -30,3 +32,5 @@ Something so good that I think I will want to read it again
 
 ## I Don't Know What It Is
 #### [日本《周刊文春》曝光东京奥运会 1199 页内部文件，东京奥运会开幕式本应是怎样的？](https://www.zhihu.com/question/475755259/answer/2026751215)
+  - 各種為了自己利益的人，提出不合理的需求。另外一方面，什麼都不知道的民眾看到的消息，也跟正在經歷這一切的人所知道的截然不同
+  - 如果我是每天看這些新聞的群眾，我有機會推測出裡面發生的事情嗎？
