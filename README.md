@@ -10,6 +10,8 @@ Something so good that I think I will want to read it again
   - 如何量化並且改善 SLO
 #### [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   - kafka 的作者講 log，另外一個角度的 database 思維
+#### [System Design Primier](https://github.com/donnemartin/system-design-primer)
+  - 相見恨晚....
 
 ## Operation
 #### [OKR and Agile: Stop Waterfall Goals](https://felipecastro.com/en/okr/okr_and-agile/)
