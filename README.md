@@ -15,6 +15,8 @@ Something so good that I think I will want to read it again
 #### [Composition Over Inheritance](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
   - 用 python logging 的實作方式，解釋為何 composition 比 inheritance 好
   - 或許我可以想想關於 Mixin 不好的地方。Mixin 的確是讓我有點痛苦
+#### [Productivity Tips from Developers to Developers]https://dev.to/coffeestasia/productivity-tips-from-developers-to-developers-4j75
+  - 工程師分享各自效率變好的方法
 
 ## Operation
 #### [OKR and Agile: Stop Waterfall Goals](https://felipecastro.com/en/okr/okr_and-agile/)
